@@ -1,3 +1,6 @@
+def doSomething(布尔值: bool):
+    pass
+
 def on_forever():
     basic.show_icon(IconNames.TORTOISE)
     basic.pause(10)
