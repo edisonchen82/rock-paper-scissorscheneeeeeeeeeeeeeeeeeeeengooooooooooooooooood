@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="?NJHo}a;.pWz{l[c=N(e" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="`^cfx^3lj@z6b#U621V["><field name="i">IconNames.Tortoise</field><next><block type="device_pause" id="[hOtt^XMBU3Izo#loIk~"><value name="pause"><shadow type="timePicker" id="PmWQ+_wGJNC@yW6U+c.i"><field name="ms">10</field></shadow></value></block></next></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="?NJHo}a;.pWz{l[c=N(e" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="`^cfx^3lj@z6b#U621V["><field name="i">IconNames.Tortoise</field><next><block type="device_pause" id="[hOtt^XMBU3Izo#loIk~"><value name="pause"><shadow type="timePicker" id="PmWQ+_wGJNC@yW6U+c.i"><field name="ms">10</field></shadow></value><next><block type="basic_show_icon" id="lO.a`u^I+CU,gSX|cA2,"><field name="i">IconNames.Heart</field><next><block type="device_show_leds" id="r/{gP0Kp=I?qxYJ1Z0GJ"><field name="LEDS">`
+        . . . . . 
+        # # # # # 
+        . . # # . 
+        . # . . . 
+        # # # # #
+        `</field><next><block type="device_show_number" id="zMkOu{c8;1]SKaH^KwMN"><value name="number"><shadow type="math_number" id="?6(SEU3ZY)eBkRuODwO5"><field name="NUM">8</field></shadow></value><next><block type="device_clear_display" id="w-`EYNcZQ|X_x3LmL+]4"><next><block type="basic_show_arrow" id="~G$%0|JEqXHLQ],@~}1F"><value name="i"><shadow type="device_arrow" id="xBn8W8dt)up6_#y5B,c."><field name="arrow">ArrowNames.NorthEast</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
